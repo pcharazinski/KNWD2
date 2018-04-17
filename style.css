@@ -43,29 +43,29 @@ body {
 a {
     color: black;
     opacity: 0.8;
-    /* Dopisane */
+   
     outline: 3;
-    /* Nowe */
+   
     text-decoration: none;
-    /* Nowe */
+   
 }
 
 .nav-item {
     display: flex;
-    /* Dopisane */
+   
     align-items: center;
-    /* Dopisane */
+   
     justify-content: center;
-    /* Dopisane */
+   
     border-radius: 100%;
-    /* Nowe */
+   
     border: solid 1px black;
-    /* Nowe */
+   
     opacity: 0.8;
     width: 30px;
-    /* Dopisane */
+   
     height: 30px;
-    /* Dopisane */
+   
     margin-top: 30px;
     margin-left: 10px;
 }
