@@ -114,10 +114,9 @@ ol>li:hover>a {
     width: 100%;
 }
 
-.phone {
-    position: relative;
-    z-index: 100;
-    top: -30px;
+.phone:hover {
+   filter: contrast(1.2);
+   cursor: pointer;
 }
 
 .phone {
